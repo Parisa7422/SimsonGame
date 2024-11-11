@@ -20,7 +20,7 @@ The Simon Game is a classic memory game where players must replicate a sequence 
 - Learned about **basic game development** concepts such as managing game state and logic.
 
 ## Live Demo
-You can view the live demo of this project on [GitHub Pages](https://parisa7422.github.io/SimonGame).
+You can view the live demo of this project on [GitHub Pages](https://parisa7422.github.io/SimsonGame/).
 
 ## Acknowledgments
 This project was part of my journey to learn **JavaScript** and create fun, interactive web applications.
